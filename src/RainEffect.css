@@ -1,0 +1,15 @@
+.rain-drop {
+  position: fixed;
+  top: 0;
+  width: 2px;
+  height: 15px;
+  background: rgba(255, 255, 255, 0.5);
+  animation: fall linear infinite;
+  z-index: 9999;
+}
+
+@keyframes fall {
+  to {
+    transform: translateY(100vh);
+  }
+}
