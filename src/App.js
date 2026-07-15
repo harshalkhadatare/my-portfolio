@@ -17,7 +17,7 @@ const navLinks = [
 ];
 
 const socialLinks = [
-    { href: "https://github.com/Harshroo45", icon: <GitHub size={20} />, name: "GitHub" },
+    { href: "https://github.com/Harshalkhadatare", icon: <GitHub size={20} />, name: "GitHub" },
     { href: "https://www.linkedin.com/in/harshal-khadatare-9882ab23a/", icon: <Linkedin size={20} />, name: "LinkedIn" },
     { href: "https://leetcode.com/u/Harshhh_45/", icon: <Code size={20} />, name: "LeetCode" },
 ];
